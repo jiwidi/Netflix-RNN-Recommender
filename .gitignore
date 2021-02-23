@@ -1,3 +1,10 @@
+#By Jaime
+
+data/
+lightning_logs/
+runs/
+
+#Template python github
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
