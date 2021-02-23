@@ -4,6 +4,8 @@ data/
 lightning_logs/
 runs/
 
+screenlog.0
+
 #Template python github
 # Byte-compiled / optimized / DLL files
 __pycache__/
