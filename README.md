@@ -19,6 +19,13 @@ RNN(
 )
 ```
 
+## Results
+
+| Results        | HR10           | HR50  |
+| ------------- |:-------------:| -----:|
+| Initial model     | 0.17 | 0.35 |
+
+
 ## Future work
 This line of research has been continued by other teams by adding a hierarchical context [here](https://arxiv.org/pdf/1706.04148.pdf) and even adding attention layers to optimize it [here](https://www.ijcai.org/Proceedings/2018/0546.pdf). This could be an improvement on the model present here
 
