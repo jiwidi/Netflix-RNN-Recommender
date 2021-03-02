@@ -1,5 +1,5 @@
 # Netflix-RNN-Recommender
-I create a RNN recommender based on google [work](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46488.pdf) for youtube recommendations we could try a similar approach. We try to predict next movie a user will watch based on its movie history. Netflix price was a explicit recommendation system as it had ratings for each movie, for this problem transform it into a implicit recommendation problem where watching a movie is the implicit feedback, no distintion between like/dislike movies.
+I create a Pytorch based RNN recommender based on google [work](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46488.pdf) for youtube recommendations we could try a similar approach. We try to predict next movie a user will watch based on its movie history. Netflix price was a explicit recommendation system as it had ratings for each movie, for this problem transform it into a implicit recommendation problem where watching a movie is the implicit feedback, no distintion between like/dislike movies.
 
 
 ## Data
@@ -18,6 +18,8 @@ RNN(
   (criterion): CrossEntropyLoss()
 )
 ```
+
+
 
 ## Results
 
